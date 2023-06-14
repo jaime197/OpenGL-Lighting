@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Jaime\Documents\U-tad\ProgramacioGrafica\PracticaFinalProgramacionGrafica\PracticaFinalProgramacionGrafica\main.cpp(146,28): warning C4101: 'texture2': variable local sin referencia
+C:\Users\Jaime\Documents\U-tad\ProgramacioGrafica\PracticaFinalProgramacionGrafica\PracticaFinalProgramacionGrafica\main.cpp(322,42): warning C4101: 'e': variable local sin referencia
+  PracticaFinalProgramacionGrafica.vcxproj -> C:\Users\Jaime\Documents\U-tad\ProgramacioGrafica\PracticaFinalProgramacionGrafica\x64\Debug\PracticaFinalProgramacionGrafica.exe
